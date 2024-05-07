@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Anees aro
-- 👀 I'm interested in data science, machine learning, and artificial intelligence.
-- 🌱 I'm currently learning deep learning and computer vision.
-- 💞️ I'm looking to collaborate on projects that use data science to solve real-world problems.
+- 👋 Hi, I'm Anees Aro
+- 🌱 I'm currently learning about GANs and Transformers in computer vision.
+- 💞️ I'm looking to collaborate on projects that involve computer vision to tackle real-world problems.
+- 👩‍💻 Happy to assist beginners!
 - 📫 You can reach me through [linkedin](https://www.linkedin.com/in/anees-aro-52a79614a)
 
 
