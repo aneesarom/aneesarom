@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Anees Aro  
 
-🚀 **AI Engineer | Computer Vision | GenAI | RAG Systems**
+🚀 **AI Engineer | Computer Vision | GenAI | RAG Systems**  
+
+> 💼 **Open for Freelancing & AI Consulting Opportunities**
 
 I build intelligent systems that solve real-world problems using **Computer Vision, Deep Learning, and Generative AI**.
 
@@ -42,11 +44,11 @@ Git, Docker, Slack Integrations, Performance Optimization
 
 ## 💞️ Open to Collaborate  
 
-I’m interested in collaborating on projects involving:  
-- Computer Vision  
-- Generative AI  
-- Intelligent Automation Systems  
-- AI-powered SaaS products  
+I’m available for:  
+- Freelance AI/ML Projects  
+- Computer Vision System Development  
+- RAG / LLM Application Development  
+- AI Backend & Automation Solutions  
 
 ---
 
